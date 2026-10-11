@@ -1,33 +1,64 @@
-# Hi there, I'm Rana Ahmed 👋
-### AI & Machine Learning Student | Kafrelsheikh University
+<div align="center">
+  <h1>Hi there, I'm Rana Ahmed Elmaghraby 👋</h1>
+  <p><strong>Artificial Intelligence Student @ Kafrelsheikh University</strong> • <em>Ranked 1st in Cohort</em></p>
+  <p>Passionate about building scalable End-to-End Machine Learning systems, Computer Vision architectures, and robust Data Engineering pipelines.</p>
 
-Passionate about designing and deploying end-to-end Machine Learning & Deep Learning pipelines, Computer Vision architectures, and scalable Data Engineering systems.
+  <p>
+    <a href="https://www.linkedin.com/in/rana-elmaghraby-8108a5366/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://ranaelmaghraby.my.canva.site/ranaelmaghraby-portfolio"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://leetcode.com/u/Rana_Elmaghraby/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://codeforces.com/profile/Rana_Elmaghraby"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+    <a href="https://www.kaggle.com/code/ranaahmedelmaghraby"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  </p>
+</div>
+
+---
+
+### 💼 Experience & Roles
+
+- 🔹 **AI Engineering Trainee** @ [Samsung Innovation Campus (SIC)](https://www.samsung.com)
+  - Focused on Deep Learning architectures, Neural Networks optimization, and end-to-end AI applications.
+- 🔹 **Data Engineer Intern** @ [Digital Egypt Pioneers Initiative (DEPI)](https://depi.gov.eg)
+  - Engineered batch and streaming pipelines, relational schemas, ETL processes, and modern data warehouse solutions.
+
+---
+
+### 🚀 Featured Repositories & Projects
+
+| Project | Domain / Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| 🛡️ **[TeleShield AI](https://github.com/RanaElmaghraby/NLP-Spam-Filter-Desktop-App)** | Real-time SMS Spam Detection with Explainable AI (XAI) feature attribution layer & Tkinter GUI | Python, Scikit-learn, Naive Bayes, Tkinter, PyInstaller |
+| 📊 **[Income Level Classification](https://github.com/RanaElmaghraby/Income-Level-Classification-Socioeconomic-Segmentation)** | Socioeconomic segmentation & high-accuracy census income prediction pipeline | Python, Scikit-learn, XGBoost, Power BI |
+| 🚦 **[Traffic Flow Analytics](https://github.com/RanaElmaghraby/Traffic-Flow-Analytics)** | End-to-end batch & streaming data analytics pipeline for municipal traffic patterns | Python, Kafka, Spark, SQL Server, Docker, Power BI |
+| 🎬 **[IMDb ETL Dashboard](https://github.com/RanaElmaghraby/IMDB-ETL-Dashboard)** | Automated web-scraping ETL pipeline with analytics dashboards | Python, Web Scraping, SQL Server, Streamlit, Power BI |
+| 🔍 **[India Crime EDA & Dashboard](https://github.com/RanaElmaghraby/India-Crime-Analysis-EDA-Dashboard)** | State-level crime trends and demographic correlation analysis | Python, Pandas, Seaborn, Power BI |
+| 💼 **[Workforce & Payroll Analytics](https://github.com/RanaElmaghraby/Workforce-Payroll-Analytics)** | Enterprise HR data modeling, compensation analytics, and KPI tracking | SQL Server, Power BI, Advanced DAX |
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **AI, Deep Learning & Computer Vision:** Image Classification, Transfer Learning, CNNs, Deep Neural Networks, Scikit-learn, XGBoost, Feature Engineering, Imbalanced Learning, Model Evaluation
-- **Data Engineering:** SQL, Microsoft Azure, ETL Pipelines, SSIS, Apache Kafka, Apache Spark, Hadoop, Docker, Data Preprocessing
-- **Programming Languages:** Python, C++
-- **Core CS Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms
-- **Libraries & Analytics Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- **Mathematics & Foundations:** Probability, Statistics, Linear Algebra, Applied Mathematics
-- **Problem Solving:** Active Problem Solver on [LeetCode](https://leetcode.com/) & [Codeforces](https://codeforces.com/)
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **AI, Deep Learning & Vision** | Image Classification, Transfer Learning, CNNs, Scikit-learn, XGBoost, Feature Engineering, Imbalanced Learning, Model Evaluation |
+| **Data Engineering & Cloud** | SQL Server, MySQL, Microsoft Azure, ETL Pipelines, SSIS, Apache Kafka, Apache Spark, Hadoop, Docker |
+| **Languages** | Python, C++, SQL |
+| **Core Computer Science** | Object-Oriented Programming (OOP), Data Structures & Algorithms, Design Patterns |
+| **Data Analytics & BI** | Pandas, NumPy, Matplotlib, Seaborn, Power BI, Streamlit |
+| **Problem Solving** | Active competitive programmer on **LeetCode** & **Codeforces** |
+| **Theoretical Foundations** | Probability, Applied Statistics, Linear Algebra, Mathematical Optimization |
 
 ---
 
-### 🚀 Featured Projects
-- **[TeleShield AI](https://github.com/RanaElmaghraby/NLP-Spam-Filter-Desktop-App):** Explainable SMS Spam Detection Desktop Application with Naive Bayes & Tkinter.
+### 📊 GitHub & Problem Solving Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RanaElmaghraby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaElmaghraby&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</div>
 
 ---
 
-### 🌐 Connect with Me
-- **LinkedIn:** [linkedin.com/in/rana-elmaghraby](https://www.linkedin.com/in/rana-elmaghraby)
-- **Kaggle:** [kaggle.com/ranaahmedelmaghraby](https://www.kaggle.com/code/ranaahmedelmaghraby)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanaElmaghraby&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <sub>Built & maintained by Rana Ahmed Elmaghraby • Open for AI Engineering & Data Engineering opportunities</sub>
+</div>

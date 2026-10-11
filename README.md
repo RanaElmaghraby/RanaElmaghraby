@@ -50,15 +50,3 @@
 
 ---
 
-### 📊 GitHub & Problem Solving Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanaElmaghraby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanaElmaghraby&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>Built & maintained by Rana Ahmed Elmaghraby • Open for AI Engineering & Data Engineering opportunities</sub>
-</div>

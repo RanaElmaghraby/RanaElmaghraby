@@ -25,7 +25,6 @@
 
 ### 🚀 Featured Repositories & Projects
 
-### 🚀 Featured Repositories & Projects
 
 | Project | Domain / Highlights | Tech Stack |
 | :--- | :--- | :--- |
@@ -55,6 +54,3 @@
 | **Theoretical Foundations** | Probability, Applied Statistics, Linear Algebra, Mathematical Optimization |
 
 ---
-
----
-

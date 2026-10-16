@@ -25,14 +25,18 @@
 
 ### 🚀 Featured Repositories & Projects
 
+### 🚀 Featured Repositories & Projects
+
 | Project | Domain / Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| 🛡️ **[TeleShield AI](https://github.com/RanaElmaghraby/NLP-Spam-Filter-Desktop-App)** | Real-time SMS Spam Detection with Explainable AI (XAI) feature attribution layer & Tkinter GUI | Python, Scikit-learn, Naive Bayes, Tkinter, PyInstaller |
-| 📊 **[Income Level Classification](https://github.com/RanaElmaghraby/Income-Level-Classification-Socioeconomic-Segmentation)** | Socioeconomic segmentation & high-accuracy census income prediction pipeline | Python, Scikit-learn, XGBoost, Power BI |
-| 🚦 **[Traffic Flow Analytics](https://github.com/RanaElmaghraby/Traffic-Flow-Analytics)** | End-to-end batch & streaming data analytics pipeline for municipal traffic patterns | Python, Kafka, Spark, SQL Server, Docker, Power BI |
-| 🎬 **[IMDb ETL Dashboard](https://github.com/RanaElmaghraby/IMDB-ETL-Dashboard)** | Automated web-scraping ETL pipeline with analytics dashboards | Python, Web Scraping, SQL Server, Streamlit, Power BI |
-| 🔍 **[India Crime EDA & Dashboard](https://github.com/RanaElmaghraby/India-Crime-Analysis-EDA-Dashboard)** | State-level crime trends and demographic correlation analysis | Python, Pandas, Seaborn, Power BI |
-| 💼 **[Workforce & Payroll Analytics](https://github.com/RanaElmaghraby/Workforce-Payroll-Analytics)** | Enterprise HR data modeling, compensation analytics, and KPI tracking | SQL Server, Power BI, Advanced DAX |
+| ♻️ **[EcoVision-Recycling](https://github.com/RanaElmaghraby/EcoVision-Recycling/tree/main)** | Computer Vision AI-powered waste classification across 10 categories using transfer learning, MLflow experiment tracking, and a deployed Streamlit web app with recycling guidance. | Python, Computer Vision, TensorFlow/Keras, EfficientNetV2S, MLflow, Streamlit, Scikit-learn, JSON |
+| 🛡️ **[TeleShield AI](https://github.com/RanaElmaghraby/NLP-Spam-Filter-Desktop-App)** | SMS Spam Detection with an explainability layer and a desktop GUI. | Python, Scikit-learn, Naive Bayes, Tkinter, PyInstaller |
+| 📊 **[Income Level Classification](https://github.com/RanaElmaghraby/Income-Level-Classification-Socioeconomic-Segmentation)** | Socioeconomic segmentation and census income prediction. | Python, Scikit-learn, XGBoost, Power BI |
+| 🚦 **[Traffic Flow Analytics](https://github.com/RanaElmaghraby/Traffic-Flow-Analytics)** | End-to-end batch and streaming data analytics pipeline for municipal traffic patterns. | Python, Kafka, Spark, SQL Server, Docker, Power BI |
+| 🎬 **[IMDb ETL Dashboard](https://github.com/RanaElmaghraby/IMDB-ETL-Dashboard)** | Automated web-scraping ETL pipeline with interactive analytics dashboards. | Python, Web Scraping, SQL Server, Streamlit, Power BI |
+| 🔍 **[India Crime EDA & Dashboard](https://github.com/RanaElmaghraby/India-Crime-Analysis-EDA-Dashboard)** | State-level crime trends and demographic correlation analysis. | Python, Pandas, Seaborn, Power BI |
+| 💼 **[Workforce & Payroll Analytics](https://github.com/RanaElmaghraby/Workforce-Payroll-Analytics)** | HR data modeling, compensation analytics, and KPI tracking. | SQL Server, Power BI, DAX |
+
 
 ---
 
@@ -40,13 +44,17 @@
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **AI, Deep Learning & Vision** | Image Classification, Transfer Learning, CNNs, Scikit-learn, XGBoost, Feature Engineering, Imbalanced Learning, Model Evaluation |
+| **AI, Machine Learning & Deep Learning** | Scikit-learn, XGBoost, Transfer Learning, CNNs, Feature Engineering, Imbalanced Learning, Model Evaluation, MLflow |
+| **Computer Vision** | Image Classification, Image Augmentation, CNN Architectures, EfficientNetV2S, TensorFlow/Keras |
 | **Data Engineering & Cloud** | SQL Server, MySQL, Microsoft Azure, ETL Pipelines, SSIS, Apache Kafka, Apache Spark, Hadoop, Docker |
 | **Languages** | Python, C++, SQL |
 | **Core Computer Science** | Object-Oriented Programming (OOP), Data Structures & Algorithms, Design Patterns |
-| **Data Analytics & BI** | Pandas, NumPy, Matplotlib, Seaborn, Power BI, Streamlit |
-| **Problem Solving** | Active competitive programmer on **LeetCode** & **Codeforces** |
+| **Data Analytics & BI** | Pandas, NumPy, Matplotlib, Seaborn, Power BI |
+| **Deployment & Experiment Tracking** | Streamlit, MLflow Experiment Tracking, Model Evaluation & Comparison |
+| **Problem Solving** | LeetCode, Codeforces |
 | **Theoretical Foundations** | Probability, Applied Statistics, Linear Algebra, Mathematical Optimization |
+
+---
 
 ---
 
